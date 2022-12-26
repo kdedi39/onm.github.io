@@ -1,0 +1,45 @@
+User@WIN-FAKPHGVI8CO MINGW64 ~/Desktop/portpolio -bootstrap 5
+$ git config --global user.name "kdedi"
+
+User@WIN-FAKPHGVI8CO MINGW64 ~/Desktop/portpolio -bootstrap 5
+$ git config --global user.email "kdedi39@gmail.com"
+
+User@WIN-FAKPHGVI8CO MINGW64 ~/Desktop/portpolio -bootstrap 5
+$ git init
+Initialized empty Git repository in C:/Users/User/Desktop/portpolio -bootstrap 5/.git/
+
+User@WIN-FAKPHGVI8CO MINGW64 ~/Desktop/portpolio -bootstrap 5 (master)
+$ git add .
+
+User@WIN-FAKPHGVI8CO MINGW64 ~/Desktop/portpolio -bootstrap 5 (master)
+$  git commit -m "first commit"
+[master (root-commit) 1ca4eea] first commit
+ 19 files changed, 746 insertions(+)
+ create mode 100644 barjas.html
+ create mode 100644 img/Logo ONM-01.png
+ create mode 100644 img/Logo ONMs.png
+ create mode 100644 img/Logo-ONM.jpg
+ create mode 100644 img/Logo-ONM1.jpg
+ create mode 100644 img/Logo_ONM-01-removebg-preview.png
+ create mode 100644 img/ONMS Program_2023_-1-1.pdf
+ create mode 100644 img/[Originals]/Logo-ONM1.jpg
+ create mode 100644 img/key 1.jpg
+ create mode 100644 img/key 2.jpg
+ create mode 100644 img/key 3.jpg
+ create mode 100644 img/on.jpg.png
+ create mode 100644 img/onmm.jpg
+ create mode 100644 img/oon.jpg
+ create mode 100644 img/pc 1.jpg
+ create mode 100644 index.html
+ create mode 100644 renov.html
+ create mode 100644 rumdin.html
+ create mode 100644 styles.css
+
+User@WIN-FAKPHGVI8CO MINGW64 ~/Desktop/portpolio -bootstrap 5 (master)
+$ git branch -M main
+
+User@WIN-FAKPHGVI8CO MINGW64 ~/Desktop/portpolio -bootstrap 5 (main)
+$ git remote add origin https://github.com/kdedi39/onm.github.io.git
+
+User@WIN-FAKPHGVI8CO MINGW64 ~/Desktop/portpolio -bootstrap 5 (main)
+$ git push -u origin main
